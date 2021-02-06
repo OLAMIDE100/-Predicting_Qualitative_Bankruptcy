@@ -4,7 +4,7 @@
 ### Estimating the chance of Bankruptcy from Qualitative parameters from experts 
 
 ---
-![](407.jpg)
+![](bankkk_1571301223.jpg)
 ---
 
 This *beginner* level data set has 250 rows and 7 columns.
